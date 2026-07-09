@@ -44,6 +44,15 @@ flowchart LR
     Evaluator -->|"フィードバック"| Browser
 ```
 
+### ディレクトリ構造案
+
+```text
+project/
+├── frontend/      # UI・Webアプリケーション
+├── backend/       # システムロジック
+└── assignments/   # 課題データ・評価条件
+```
+
 ## 使用予定技術
 
 ### フロントエンド
