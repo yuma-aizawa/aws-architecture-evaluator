@@ -173,6 +173,6 @@ Cloud Security Alliance（CSA）が提供するクラウドセキュリティ評
 
 ---
 
-## 10. 研究の中核定義
+## 13. 研究の中核定義
 
 本研究は、AWS Well-Architected FrameworkおよびCSA CCMを基に、IaC静的解析結果を統合し、実環境構築不要かつ設計段階でクラウド構成を評価・学習支援するシステムの設計・実装を目的とする。
